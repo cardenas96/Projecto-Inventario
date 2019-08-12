@@ -1,0 +1,126 @@
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.exe.config
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.vbprojResolveAssemblyReference.cache
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Principal.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.frm_Empleados.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Resources.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Producto.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Proveedor.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.vbproj.GenerateResource.Cache
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.xml
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.exe
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.pdb
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.xml
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.exe
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.pdb
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Compra.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Consulta_Compra.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Ventas.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Consulta_Ventas.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Inicio_Sesion.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Usuarios.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Reportes.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\RdlCompile.cache
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\RdlCompile.compiled
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Fechas.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Fecha_Nombre.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Respaldo_Restauracion.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Bitacora.resources
+D:\Desa e Imple de Sis\Proyecto\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Historico.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.exe.config
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.xml
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.exe
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.pdb
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.xml
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.vbprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Compra.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Consulta_Compra.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Consulta_Ventas.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Bitacora.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Fechas.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Fecha_Nombre.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Historico.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Inicio_Sesion.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Principal.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.frm_Empleados.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Resources.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Producto.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Proveedor.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Reportes.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Respaldo_Restauracion.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Usuarios.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Ventas.resources
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.vbproj.GenerateResource.Cache
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\RdlCompile.cache
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\RdlCompile.compiled
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.exe
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.pdb
+C:\Users\Diego\Documents\Hope\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.frmVentasExcel.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.exe.config
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.exe
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.xml
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.pdb
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.exe
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.pdb
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Sis_Admin_In.xml
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.vbprojResolveAssemblyReference.cache
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.vbproj.ResolveComReference.cache
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Compra.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Consulta_Compra.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Consulta_Ventas.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Bitacora.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Fechas.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Fecha_Nombre.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.frmVentasExcel.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Historico.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Inicio_Sesion.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Principal.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.frm_Empleados.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Resources.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Producto.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Proveedor.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Reportes.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Respaldo_Restauracion.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Usuarios.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.Ventas.resources
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\Sis_Admin_In.vbproj.GenerateResource.Cache
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\RdlCompile.cache
+C:\PruebasPH\ProyectoHope\Sis_Admin_In\Sis_Admin_In\obj\Debug\RdlCompile.compiled
